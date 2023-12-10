@@ -1,0 +1,5 @@
+#Debug Configuration
+.vscode
+
+#Build files
+build
