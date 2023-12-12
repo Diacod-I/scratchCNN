@@ -1,2 +1,2 @@
 # scratchCNN
-Making ConvNet from Scratch
+Making ConvNet from Scratch :P
