@@ -3,3 +3,6 @@
 
 #Build files
 build
+
+#CMake configuration
+/CMakeFiles
